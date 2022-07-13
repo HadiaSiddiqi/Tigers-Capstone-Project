@@ -1,0 +1,1467 @@
+2022-06-17 01:00:15,918 [main] INFO logger_file - Scenario Login to Test Environment with One User started
+2022-06-17 01:00:19,897 [main] INFO logger_file - Text Test Environment was verified
+2022-06-17 01:00:19,961 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-17 01:00:20,344 [main] INFO logger_file - Login link was clicked successfully
+2022-06-17 01:00:20,556 [main] INFO logger_file - Email and password were entered successfully
+2022-06-17 01:00:21,107 [main] INFO logger_file - Login button was clicked successfully
+2022-06-17 01:00:21,140 [main] INFO logger_file - My Account text was verified successfully
+2022-06-17 01:00:21,766 [main] INFO logger_file - Scenario Login to Test Environment with One User PASSED
+2022-06-17 01:09:39,899 [main] INFO logger_file - Scenario  started
+2022-06-17 01:09:44,655 [main] INFO logger_file - Scenario  UNDEFINED
+2022-06-17 01:09:44,681 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 01:09:48,469 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-17 01:11:08,828 [main] INFO logger_file - Scenario  started
+2022-06-17 01:11:13,228 [main] INFO logger_file - Scenario  UNDEFINED
+2022-06-17 01:28:53,529 [main] INFO logger_file - Scenario  started
+2022-06-17 01:32:10,603 [main] INFO logger_file - Scenario Login into Retail started
+2022-06-17 01:32:15,250 [main] INFO logger_file - Retail website was varified successfully
+2022-06-17 01:32:15,367 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-17 01:32:15,843 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-17 01:32:16,110 [main] INFO logger_file - the username and password was entered successfully
+2022-06-17 01:32:16,788 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-17 01:34:29,918 [main] INFO logger_file - Scenario Login into Retail started
+2022-06-17 01:34:34,350 [main] INFO logger_file - Retail website was varified successfully
+2022-06-17 01:34:34,457 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-17 01:34:34,999 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-17 01:34:35,271 [main] INFO logger_file - the username and password was entered successfully
+2022-06-17 01:34:35,905 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-17 01:34:35,939 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-17 01:34:36,668 [main] INFO logger_file - Scenario Login into Retail PASSED
+2022-06-17 13:07:36,181 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 13:07:40,790 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-17 13:38:33,653 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 13:38:39,658 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-17 14:21:58,006 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 15:57:08,064 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 16:04:40,173 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 16:05:01,594 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 16:06:30,537 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 16:08:05,973 [main] INFO logger_file - Scenario part one started
+2022-06-17 16:08:10,479 [main] INFO logger_file - Retail website was varified successfully
+2022-06-17 16:08:10,647 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-17 16:08:11,175 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-17 16:08:11,426 [main] INFO logger_file - the username and password was entered successfully
+2022-06-17 16:08:12,080 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-17 16:08:12,149 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-17 16:08:12,820 [main] INFO logger_file - Scenario part one PASSED
+2022-06-17 16:12:46,953 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 16:13:39,220 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 16:17:17,967 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 21:03:44,714 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 21:06:00,125 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 21:12:58,278 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 21:13:02,510 [main] INFO logger_file - Retail website was varified successfully
+2022-06-17 21:13:02,559 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-17 21:13:03,020 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-17 21:13:03,259 [main] INFO logger_file - the username and password was entered successfully
+2022-06-17 21:13:03,920 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-17 21:13:03,960 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-17 21:18:33,315 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-17 21:18:37,395 [main] INFO logger_file - Retail website was varified successfully
+2022-06-17 21:18:37,485 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-17 21:18:37,941 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-17 21:18:38,166 [main] INFO logger_file - the username and password was entered successfully
+2022-06-17 21:18:38,872 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-17 21:18:38,911 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-17 21:18:39,405 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-17 21:18:39,746 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-17 21:18:39,844 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-17 21:18:40,473 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-18 13:01:40,006 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-18 13:01:44,087 [main] INFO logger_file - Retail website was varified successfully
+2022-06-18 13:01:44,138 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-18 13:01:44,462 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-18 13:01:44,643 [main] INFO logger_file - the username and password was entered successfully
+2022-06-18 13:01:45,144 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-18 13:01:45,175 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-18 13:04:31,918 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-18 13:04:35,947 [main] INFO logger_file - Retail website was varified successfully
+2022-06-18 13:04:35,994 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-18 13:04:36,331 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-18 13:04:36,499 [main] INFO logger_file - the username and password was entered successfully
+2022-06-18 13:04:36,996 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-18 13:04:37,023 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 12:05:44,141 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 12:05:49,869 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 12:05:49,962 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 12:05:50,526 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 12:06:45,898 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 12:06:50,251 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 12:06:50,381 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 12:06:50,841 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 12:06:51,112 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 12:06:51,778 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 12:06:51,817 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 12:06:52,244 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-19 12:06:52,589 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-19 12:06:52,654 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-19 12:06:53,324 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-19 14:23:31,908 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:26:37,917 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:26:42,308 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 14:26:42,387 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 14:26:42,990 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 14:26:43,336 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 14:26:43,973 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 14:26:44,014 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 14:26:44,566 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-19 14:26:45,077 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-19 14:26:45,168 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-19 14:26:45,825 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-19 14:32:33,261 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:32:37,500 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 14:32:37,605 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 14:32:38,120 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 14:32:38,458 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 14:32:39,140 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 14:32:39,226 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 14:32:39,738 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-19 14:32:40,364 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-19 14:32:40,460 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-19 14:32:41,307 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-19 14:37:51,204 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:39:13,539 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:40:15,539 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:40:20,003 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 14:40:20,159 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 14:40:20,667 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 14:40:20,912 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 14:40:21,605 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 14:40:21,646 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 14:40:22,174 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-19 14:40:22,654 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-19 14:40:22,747 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-19 14:40:23,541 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-19 14:50:06,028 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:50:10,744 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 14:50:10,857 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 14:50:11,359 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 14:50:11,586 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 14:50:12,357 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 14:50:12,411 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 14:52:13,917 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:52:18,866 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 14:52:18,981 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 14:52:19,451 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 14:52:19,725 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 14:52:20,493 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 14:54:05,900 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:54:10,819 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 14:54:10,903 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 14:54:11,370 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 14:54:11,714 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 14:54:12,356 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 14:55:14,377 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 14:55:19,290 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 14:55:19,385 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 14:55:20,070 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 14:55:20,456 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 14:55:21,263 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 14:55:21,305 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 14:55:21,845 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-19 14:55:22,351 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-19 14:55:22,469 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-19 14:55:23,504 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-19 15:00:05,137 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-19 15:00:10,055 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 15:00:10,149 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-19 15:00:10,591 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-19 15:00:10,842 [main] INFO logger_file - the username and password was entered successfully
+2022-06-19 15:00:11,739 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-19 15:00:11,825 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-19 15:00:12,415 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-19 15:00:12,922 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-19 15:00:13,040 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-19 15:00:14,024 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-19 17:53:33,388 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-19 17:53:37,429 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 17:53:38,071 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-06-19 17:56:22,835 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-19 17:56:26,650 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 17:56:27,266 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-06-19 18:05:51,121 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-19 18:05:55,010 [main] INFO logger_file - Retail website was varified successfully
+2022-06-19 18:05:55,088 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-19 18:05:55,817 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-19 18:05:55,847 [main] INFO logger_file - User was able to see all items are present in Desktop page
+2022-06-19 18:05:56,459 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-20 01:27:12,306 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-20 01:27:16,052 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 01:27:16,109 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 01:27:16,750 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 01:27:16,767 [main] INFO logger_file - User was able to see all items are present in Desktop page
+2022-06-20 01:27:17,392 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-20 01:27:17,430 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 01:27:20,550 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 01:27:20,616 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 01:27:21,277 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 01:27:21,877 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-20 01:37:45,538 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 01:37:49,178 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 01:37:49,244 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 01:37:49,888 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 01:37:49,943 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 01:37:51,740 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 01:37:51,800 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 10:35:05,158 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-20 10:35:09,278 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 10:35:09,355 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-20 10:35:09,723 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-20 10:35:09,874 [main] INFO logger_file - the username and password was entered successfully
+2022-06-20 10:35:10,476 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-20 10:35:10,499 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-20 10:35:10,915 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-20 10:35:11,160 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-20 10:35:11,220 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-20 10:35:11,849 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-20 10:42:46,187 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-20 10:42:50,028 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 10:42:50,094 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-20 10:42:50,449 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-20 10:42:50,626 [main] INFO logger_file - the username and password was entered successfully
+2022-06-20 10:42:51,117 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-20 10:42:51,143 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-20 10:42:51,538 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-20 10:42:51,777 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-20 10:42:51,830 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-20 10:42:52,419 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-20 10:46:59,220 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-20 10:47:03,061 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 10:47:03,148 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-20 10:47:03,479 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-20 10:47:03,639 [main] INFO logger_file - the username and password was entered successfully
+2022-06-20 10:47:04,138 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-20 10:47:04,178 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-20 10:47:04,682 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-20 10:47:04,928 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-20 10:47:04,986 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-20 10:47:05,573 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-20 10:47:05,612 [main] INFO logger_file - The success message was varified successfully
+2022-06-20 10:47:06,248 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-20 10:56:30,438 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 10:56:34,332 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 10:56:34,396 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 10:56:35,067 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 10:56:35,135 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 10:56:36,955 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 10:56:37,006 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:10:30,369 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:10:34,267 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:10:34,337 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:10:35,021 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:10:35,078 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:10:36,849 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:10:36,899 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:15:03,003 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:15:06,777 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:15:06,889 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:15:07,587 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:15:07,647 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:15:09,474 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:15:09,530 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:15:14,241 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-20 11:15:59,788 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:16:03,589 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:16:03,663 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:16:04,340 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:16:04,388 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:16:06,112 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:16:06,169 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:16:10,897 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-20 11:17:25,475 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-20 11:17:29,391 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:17:29,467 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:17:30,143 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:17:30,178 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-20 11:17:30,792 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-20 11:17:30,825 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:17:34,314 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:17:34,380 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:17:35,099 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:17:35,145 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:17:36,877 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:17:36,929 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:17:41,626 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-20 11:21:26,189 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:21:30,183 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:21:30,253 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:21:30,977 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:21:31,044 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:21:32,732 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:21:32,787 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:22:42,004 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:22:46,052 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:22:46,131 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:22:46,799 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:22:46,846 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:22:48,558 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:22:48,615 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:25:14,515 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-20 11:25:18,254 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:25:18,408 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:25:21,491 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:34:25,797 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:34:30,093 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:34:30,203 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:34:30,934 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:34:31,024 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:34:33,602 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:34:33,697 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:36:52,893 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:36:57,256 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:36:57,373 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:36:58,248 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:36:58,337 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:37:00,399 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:37:00,474 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:38:09,600 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:38:13,940 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:38:14,074 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:38:14,919 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:38:14,980 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:38:17,083 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:38:17,169 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:38:21,926 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-20 11:41:58,770 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-20 11:42:03,220 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:42:03,329 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:42:04,176 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:42:04,209 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-20 11:42:04,843 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-20 11:42:04,868 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:42:08,700 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:42:08,837 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:42:09,675 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:42:09,792 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:42:12,050 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:42:12,128 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:43:06,612 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-20 11:43:10,799 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:43:11,015 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:43:14,188 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:43:56,071 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:44:00,311 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:44:00,400 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:44:01,308 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:44:01,381 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:44:03,446 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:44:03,504 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:45:37,883 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:45:42,293 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:45:42,357 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:45:43,086 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:45:43,169 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:45:45,254 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:45:45,367 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:54:21,651 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:54:25,974 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:54:26,076 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:54:26,795 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:54:26,893 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:54:29,149 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:54:29,262 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 11:57:14,890 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 11:57:19,253 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 11:57:19,351 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 11:57:20,126 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 11:57:20,209 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 11:57:22,151 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 11:57:22,210 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 12:01:00,806 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 12:01:05,485 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 12:01:05,585 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 12:01:06,359 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 12:01:06,465 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 12:01:08,518 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 12:01:08,621 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 12:02:25,722 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 12:02:29,977 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 12:02:30,131 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 12:02:31,037 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 12:02:31,098 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 12:02:33,325 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 12:02:33,455 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 12:18:27,547 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 12:18:32,748 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 12:18:32,851 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 12:18:33,563 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 12:18:33,624 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 12:18:35,941 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 12:18:36,047 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 15:14:35,079 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-20 15:14:39,519 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 15:14:39,657 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 15:14:40,583 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 15:14:40,636 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-20 15:14:41,285 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-20 15:14:41,340 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-20 15:14:44,791 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 15:14:44,905 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-20 15:14:45,607 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-20 15:14:45,704 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-20 15:14:48,379 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-20 15:14:48,453 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-20 15:15:21,591 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-20 15:15:25,885 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 15:15:25,940 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-20 15:15:26,446 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-20 15:15:26,706 [main] INFO logger_file - the username and password was entered successfully
+2022-06-20 15:15:27,521 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-20 15:15:27,590 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-20 15:15:57,853 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-20 15:16:01,197 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 15:16:01,262 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-20 15:16:01,819 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-20 15:16:02,144 [main] INFO logger_file - the username and password was entered successfully
+2022-06-20 15:16:02,892 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-20 15:16:02,941 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-20 15:16:03,574 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-20 15:16:03,589 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-20 15:16:07,195 [main] INFO logger_file - Retail website was varified successfully
+2022-06-20 15:16:07,319 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-20 15:16:07,799 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-20 15:16:08,062 [main] INFO logger_file - the username and password was entered successfully
+2022-06-20 15:16:08,775 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-20 15:16:08,818 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-20 15:16:09,476 [main] INFO logger_file - Scenario Edit your account Information UNDEFINED
+2022-06-21 09:28:47,081 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 09:28:51,922 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 09:28:52,049 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 09:28:52,783 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 09:28:52,893 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 09:28:55,364 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 09:28:55,463 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 09:35:25,098 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-21 09:35:29,329 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 09:35:29,441 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 09:35:29,887 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 09:35:30,158 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 09:35:30,937 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 09:35:31,000 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 09:36:01,286 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-21 09:36:04,995 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 09:36:05,078 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 09:36:05,556 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 09:36:05,807 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 09:36:06,505 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 09:36:06,544 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 09:36:07,198 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-21 09:36:07,219 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 10:29:33,459 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-21 10:29:37,971 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 10:29:38,076 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 10:29:38,577 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 10:29:38,887 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 10:29:39,547 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 10:29:39,590 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 10:30:09,905 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-21 10:30:14,315 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 10:30:14,495 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 10:30:15,328 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 10:30:15,861 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 10:30:16,675 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 10:30:16,745 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 10:30:17,398 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-21 10:30:17,423 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 10:30:21,268 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 10:30:21,370 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 10:30:21,953 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 10:30:22,231 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 10:30:23,098 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 10:30:23,148 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 10:30:23,813 [main] INFO logger_file - Scenario Edit your account Information UNDEFINED
+2022-06-21 10:34:00,570 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-21 10:34:05,675 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 10:34:05,754 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 10:34:06,279 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 10:34:06,634 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 10:34:07,422 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 10:34:07,475 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 10:34:37,877 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-21 10:34:41,264 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 11:02:58,554 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-21 11:03:04,022 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 11:03:04,105 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 11:03:04,835 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 11:03:05,462 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 11:03:06,385 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 11:03:06,438 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 11:03:07,133 [main] INFO logger_file - The affiliate information link was clicked sucessfully
+2022-06-21 11:03:07,238 [main] INFO logger_file - The Bank Transfer radio button was clicked successfully
+2022-06-21 11:03:08,163 [main] INFO logger_file - The bank information was fillded successfuuly
+2022-06-21 11:03:09,739 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-21 11:03:09,796 [main] INFO logger_file - The success message was varified successfully
+2022-06-21 11:03:10,487 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-06-21 11:53:13,005 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-21 11:53:17,071 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 11:53:17,146 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 11:53:17,538 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 11:53:17,732 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 11:53:18,345 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 11:53:18,372 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 11:53:48,604 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-21 11:53:51,997 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 11:53:52,050 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 11:53:52,329 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 11:54:04,595 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:09:04,109 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:09:08,088 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:09:08,164 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:09:08,553 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:09:08,743 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:09:09,230 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:09:09,261 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:09:10,426 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-06-21 12:16:48,561 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:16:52,665 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:16:52,748 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:16:53,055 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:16:53,217 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:16:53,746 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:16:53,778 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:16:54,817 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-06-21 12:20:05,990 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:20:10,397 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:20:10,473 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:20:10,821 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:20:10,972 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:20:11,462 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:20:11,502 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:20:12,633 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-06-21 12:20:12,931 [main] INFO logger_file - The information was filling out SuccessFully
+2022-06-21 12:23:51,797 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:23:55,806 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:23:55,872 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:23:56,261 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:23:56,470 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:23:56,945 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:23:56,986 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:23:58,002 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-06-21 12:23:58,270 [main] INFO logger_file - The information was filling out SuccessFully
+2022-06-21 12:23:58,781 [main] INFO logger_file - The contine button for edit Account information was clicked sucessfully
+2022-06-21 12:25:36,007 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:25:39,946 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:25:40,015 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:25:40,349 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:25:40,545 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:25:41,392 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:29:14,870 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:29:18,888 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:29:18,964 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:29:19,347 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:29:19,523 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:29:19,925 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:31:31,211 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:31:35,174 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:31:35,237 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:31:35,607 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:31:35,774 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:31:36,297 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:31:36,334 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:31:37,389 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-06-21 12:31:37,655 [main] INFO logger_file - The information was filling out SuccessFully
+2022-06-21 12:31:38,207 [main] INFO logger_file - The contine button for edit Account information was clicked sucessfully
+2022-06-21 12:33:06,658 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:33:10,504 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:33:10,578 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:33:10,951 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:33:11,141 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:33:11,543 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:36:08,243 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:36:12,215 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:36:12,287 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:36:12,633 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:36:12,810 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:36:13,342 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:36:13,371 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:36:14,328 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-06-21 12:36:14,595 [main] INFO logger_file - The information was filling out SuccessFully
+2022-06-21 12:36:15,122 [main] INFO logger_file - The contine button for edit Account information was clicked sucessfully
+2022-06-21 12:36:15,151 [main] INFO logger_file - Success Message for EdIT aCCOUNT WAS verifed sucessfully
+2022-06-21 12:36:15,754 [main] INFO logger_file - Scenario Edit your account Information PASSED
+2022-06-21 12:41:33,451 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-21 12:41:37,451 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:41:37,515 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:41:37,886 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:41:38,050 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:41:38,559 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:41:38,598 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:41:38,956 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-06-21 12:41:39,226 [main] INFO logger_file - the affiliate form was filled successfully
+2022-06-21 12:41:39,281 [main] INFO logger_file - About check boc was clicked successfuly
+2022-06-21 12:41:39,949 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-21 12:41:39,994 [main] INFO logger_file - The success message was varified successfully
+2022-06-21 12:41:40,618 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-21 12:41:40,632 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-21 12:41:43,870 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:41:43,937 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:41:44,299 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:41:44,471 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:41:44,992 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:41:45,031 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:41:45,431 [main] INFO logger_file - The affiliate information link was clicked sucessfully
+2022-06-21 12:41:45,493 [main] INFO logger_file - The Bank Transfer radio button was clicked successfully
+2022-06-21 12:41:45,836 [main] INFO logger_file - The bank information was fillded successfuuly
+2022-06-21 12:41:46,417 [main] INFO logger_file - the continue button was clicked successfully
+2022-06-21 12:41:46,454 [main] INFO logger_file - The success message was varified successfully
+2022-06-21 12:41:47,051 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-06-21 12:41:47,064 [main] INFO logger_file - Scenario Edit your account Information started
+2022-06-21 12:41:50,520 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:41:50,594 [main] INFO logger_file - My Account button was clicked successfully
+2022-06-21 12:41:50,936 [main] INFO logger_file - the Login link was clicked successfully
+2022-06-21 12:41:51,101 [main] INFO logger_file - the username and password was entered successfully
+2022-06-21 12:41:51,643 [main] INFO logger_file - the Login button was clicked successfully
+2022-06-21 12:41:51,678 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-06-21 12:41:52,805 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-06-21 12:41:53,098 [main] INFO logger_file - The information was filling out SuccessFully
+2022-06-21 12:41:53,593 [main] INFO logger_file - The contine button for edit Account information was clicked sucessfully
+2022-06-21 12:41:53,626 [main] INFO logger_file - Success Message for EdIT aCCOUNT WAS verifed sucessfully
+2022-06-21 12:41:54,221 [main] INFO logger_file - Scenario Edit your account Information PASSED
+2022-06-21 12:43:19,460 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 12:43:23,315 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 12:43:23,391 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 12:43:24,122 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 12:43:24,170 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 12:43:25,968 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 12:43:26,047 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 13:40:23,149 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 13:40:27,092 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 13:40:27,160 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 13:40:27,842 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 13:40:27,895 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 13:40:30,019 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 13:40:30,075 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 13:56:58,318 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 13:57:02,930 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 13:57:02,981 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 13:57:03,645 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 13:57:03,691 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 13:57:05,695 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 13:57:05,756 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 13:58:34,870 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 13:58:38,627 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 13:58:38,676 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 13:58:39,326 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 13:58:39,383 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 13:58:41,034 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 13:58:41,089 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 14:05:22,858 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 14:05:26,705 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 14:05:26,755 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 14:05:27,401 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 14:05:27,450 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 14:05:29,069 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 14:05:29,123 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 14:05:29,304 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-21 14:05:34,027 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-21 17:20:33,806 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 17:20:38,255 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 17:20:38,325 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 17:20:39,046 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 17:20:39,105 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 17:20:40,886 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 17:20:40,944 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 17:20:41,100 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-21 17:20:45,840 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-21 17:22:24,436 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-21 17:22:28,225 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 17:22:28,272 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 17:22:28,959 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 17:22:28,997 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-21 17:22:29,599 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-21 17:22:29,635 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-21 17:22:32,919 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 17:22:32,969 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 17:22:33,733 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 17:22:33,793 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-21 17:22:35,520 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-21 17:22:35,579 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-21 17:22:35,740 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-21 17:22:40,458 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-21 17:22:40,478 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-21 17:22:43,624 [main] INFO logger_file - Retail website was varified successfully
+2022-06-21 17:22:43,684 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-21 17:22:44,607 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-21 17:22:45,196 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-24 09:53:46,635 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-24 09:53:52,915 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 09:53:52,981 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 09:53:53,697 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 09:53:53,731 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-24 09:53:54,374 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-24 09:53:54,407 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-24 09:53:58,159 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 09:53:58,225 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 09:53:59,014 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 09:53:59,067 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-24 09:54:01,191 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 09:54:01,248 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 09:54:01,458 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-24 09:54:06,175 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-24 09:54:06,197 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 09:54:09,504 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 09:54:09,574 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 09:54:10,313 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 09:54:10,932 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-24 10:01:41,890 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 10:01:46,065 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 10:01:46,123 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 10:01:46,876 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 10:01:46,925 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 10:01:48,561 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 10:01:48,643 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 10:01:48,695 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 10:06:15,761 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 10:06:19,584 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 10:06:19,645 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 10:06:20,325 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 10:06:20,370 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 10:06:22,173 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 10:06:22,251 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 10:06:22,309 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 10:24:34,682 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 10:24:38,572 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 10:24:38,637 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 10:24:39,350 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 10:24:39,397 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 10:24:41,020 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 10:24:41,093 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 10:24:41,142 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 10:31:47,261 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 10:31:51,460 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 10:31:51,512 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 10:31:52,176 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 10:31:52,218 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 10:31:53,700 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 10:31:53,769 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 10:31:53,816 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 12:23:52,930 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 12:23:57,474 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 12:23:57,559 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 12:23:58,436 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 12:23:58,504 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:10:17,907 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-24 13:10:22,515 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:10:22,610 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:10:23,521 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:10:23,583 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-24 13:10:24,235 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-24 13:10:24,277 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-24 13:10:27,939 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:10:28,039 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:10:28,906 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:10:28,967 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-24 13:10:31,005 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 13:10:31,082 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 13:10:31,257 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-24 13:10:35,995 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-24 13:10:36,016 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 13:10:39,667 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:10:39,768 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:10:41,387 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:10:41,497 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:16:43,204 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 13:16:47,482 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:16:47,573 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:16:48,469 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:16:48,555 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:24:39,361 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-24 13:24:43,512 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:24:43,620 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:24:44,521 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:24:44,580 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-24 13:24:45,242 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-24 13:24:45,286 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-24 13:24:48,768 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:24:48,965 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:24:49,913 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:24:49,994 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-24 13:24:52,376 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 13:24:52,440 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 13:24:52,778 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-24 13:24:57,524 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-24 13:24:57,545 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 13:25:00,974 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:25:01,037 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:25:01,888 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:25:01,966 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:27:18,686 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 13:27:23,191 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:27:23,281 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:27:24,142 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:27:24,206 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:27:26,491 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 13:27:26,713 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 13:27:26,783 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 13:32:39,939 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 13:32:44,609 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:32:44,703 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:32:45,504 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:32:45,571 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:32:47,982 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 13:32:48,112 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 13:32:48,245 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 13:33:40,626 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 13:33:44,970 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:33:45,062 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:33:45,992 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:33:46,091 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:33:48,127 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 13:33:48,321 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 13:33:48,388 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 13:37:10,427 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 13:37:15,028 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 13:37:15,115 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 13:37:16,051 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 13:37:16,149 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 13:37:18,255 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 13:37:18,394 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 13:37:18,486 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 13:37:18,679 [main] INFO logger_file - The success message for Canon EOS was verfided successfully
+2022-06-24 13:37:23,424 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-24 14:21:08,048 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-24 14:21:12,592 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 14:21:12,692 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 14:21:13,725 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 14:21:13,775 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-24 14:21:14,478 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-24 14:21:14,507 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-24 14:21:17,882 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 14:21:17,981 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 14:21:18,916 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 14:21:19,009 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-24 14:21:21,209 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 14:21:21,310 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 14:21:21,550 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-24 14:21:26,311 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-24 14:21:26,322 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 14:21:29,812 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 14:21:29,909 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 14:21:30,852 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 14:21:30,949 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-24 14:21:33,049 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-24 14:21:33,233 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-24 14:21:33,301 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-24 14:21:33,558 [main] INFO logger_file - The success message for Canon EOS was verfided successfully
+2022-06-24 14:21:34,310 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-24 14:21:34,388 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-24 14:21:37,813 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 14:21:37,909 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 14:21:38,675 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 14:21:39,344 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-24 23:37:36,525 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-24 23:37:40,836 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 23:37:40,894 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 23:37:41,548 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 23:37:41,592 [main] INFO logger_file - The canon EOS clicked Sucessfully
+2022-06-24 23:37:43,491 [main] INFO logger_file - the Review link was clicked successfully
+2022-06-24 23:37:43,768 [main] INFO logger_file - The review form was submitted successfully
+2022-06-24 23:37:43,827 [main] INFO logger_file - The Continue button for Review was clicked successfully
+2022-06-24 23:45:18,011 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-24 23:45:22,130 [main] INFO logger_file - Retail website was varified successfully
+2022-06-24 23:45:22,194 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-24 23:45:22,884 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-24 23:45:22,941 [main] INFO logger_file - The canon EOS clicked Sucessfully
+2022-06-24 23:45:24,583 [main] INFO logger_file - the Review link was clicked successfully
+2022-06-24 23:45:24,850 [main] INFO logger_file - The review form was submitted successfully
+2022-06-24 23:45:24,894 [main] INFO logger_file - The Continue button for Review was clicked successfully
+2022-06-24 23:45:25,041 [main] INFO logger_file - The message for Review was verifyied succcessfully
+2022-06-24 23:45:29,774 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-06-25 00:57:06,930 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 00:57:11,695 [main] INFO logger_file - Retail website was varified successfully
+2022-06-25 00:57:12,418 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-06-27 22:52:38,022 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-27 22:52:44,671 [main] INFO logger_file - Retail website was varified successfully
+2022-06-27 22:52:44,783 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-27 22:52:45,507 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-27 22:52:47,358 [main] INFO logger_file - Macbook item was clicked successfully
+2022-06-27 22:52:47,429 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-27 22:56:11,411 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-27 22:56:15,546 [main] INFO logger_file - Retail website was varified successfully
+2022-06-27 22:56:15,652 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-27 22:56:16,315 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-27 22:56:18,180 [main] INFO logger_file - Macbook item was clicked successfully
+2022-06-27 22:56:18,285 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-27 22:57:29,182 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-27 22:57:33,469 [main] INFO logger_file - Retail website was varified successfully
+2022-06-27 22:57:33,584 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-27 22:57:34,152 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-27 22:57:35,863 [main] INFO logger_file - Macbook item was clicked successfully
+2022-06-27 22:57:35,946 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-27 22:57:36,181 [main] INFO logger_file - Success Message for macbook verified Successfully
+2022-06-27 22:57:36,280 [main] INFO logger_file - The  1 tem(s)-602.00 showed to the cart 
+2022-06-27 22:57:36,805 [main] INFO logger_file - the user clicked the cart option successfully
+2022-06-27 22:57:36,864 [main] INFO logger_file - The user saw the  red X button to remove the item from cart successfully
+2022-06-27 23:01:41,965 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-27 23:01:46,090 [main] INFO logger_file - Retail website was varified successfully
+2022-06-27 23:01:46,177 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-27 23:01:46,801 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-27 23:01:48,487 [main] INFO logger_file - Macbook item was clicked successfully
+2022-06-27 23:01:48,553 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-27 23:01:48,830 [main] INFO logger_file - Success Message for macbook verified Successfully
+2022-06-27 23:01:48,928 [main] INFO logger_file - The  1 tem(s)-602.00 showed to the cart 
+2022-06-27 23:01:49,348 [main] INFO logger_file - the user clicked the cart option successfully
+2022-06-27 23:01:49,420 [main] INFO logger_file - The user saw the  red X button to remove the item from cart successfully
+2022-06-27 23:01:49,948 [main] INFO logger_file - the item after removing showed zero successfully
+2022-06-27 23:01:50,633 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart PASSED
+2022-06-28 11:50:37,081 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-28 11:51:09,957 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:37:52,012 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:37:56,639 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:37:56,782 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:37:57,533 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:37:57,615 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:37:57,725 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:40:35,424 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:40:40,272 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:40:40,385 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:40:41,205 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:40:41,274 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:40:41,374 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:43:48,040 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:43:52,547 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:43:52,670 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:43:53,441 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:43:53,515 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:43:53,606 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:44:26,231 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:44:30,999 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:44:31,065 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:44:31,725 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:44:31,793 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:44:31,857 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:45:33,121 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:45:37,475 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:45:37,568 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:45:38,330 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:45:38,397 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:45:38,502 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:48:50,571 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:48:55,038 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:48:55,128 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:48:55,768 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:48:55,850 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:48:55,957 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:49:47,320 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:49:51,666 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:49:51,735 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:49:52,396 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:49:52,511 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:49:52,609 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:52:39,275 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:52:43,639 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:52:43,730 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:52:44,401 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:52:44,466 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:52:44,522 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:53:42,973 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:53:47,690 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:53:47,794 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:53:48,465 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:53:48,555 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:53:48,623 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:55:49,492 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:55:54,368 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:55:54,433 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:55:55,133 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:55:55,202 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:55:55,289 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:56:37,093 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:56:41,552 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:56:41,651 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:56:42,345 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:56:42,412 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:56:42,515 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 12:57:50,180 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 12:57:54,531 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 12:57:54,625 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 12:57:55,363 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 12:57:55,460 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 12:57:55,562 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:01:52,729 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:01:57,325 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:01:57,383 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:01:58,028 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:01:58,106 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:01:58,176 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:02:34,334 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:02:38,908 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:02:39,012 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:02:39,708 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:02:39,778 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:02:39,874 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:12:55,749 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:13:00,334 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:13:00,458 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:13:01,259 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:13:01,334 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:13:01,440 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:18:39,194 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:18:43,785 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:18:43,928 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:18:44,623 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:18:44,702 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:18:44,767 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:19:29,424 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:19:33,963 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:19:34,084 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:19:34,792 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:19:34,851 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:19:34,930 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:20:00,491 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:20:05,149 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:20:05,221 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:20:05,865 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:20:05,954 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:20:06,033 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:25:46,973 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:25:51,647 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:25:51,764 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:25:52,659 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:25:52,740 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:25:52,817 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:31:24,942 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:31:29,566 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:31:29,685 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:31:30,380 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:31:30,450 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:31:30,525 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:38:28,131 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:38:32,817 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:38:32,930 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:38:33,667 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:38:33,764 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:38:33,862 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:39:55,231 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:39:59,767 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:39:59,870 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:40:00,562 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:40:00,649 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:40:00,724 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:48:16,527 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:48:21,045 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:48:21,151 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:48:21,899 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:48:21,980 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:48:22,081 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 13:51:25,685 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 13:51:30,274 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 13:51:30,420 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 13:51:31,148 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 13:51:31,230 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 13:51:31,297 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 14:16:41,819 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 14:16:46,613 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 14:16:46,742 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 14:16:47,442 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 14:16:47,532 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 14:16:47,607 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 14:17:26,618 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 14:17:31,145 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 14:17:31,236 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 14:17:31,989 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 14:17:32,073 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 14:17:32,142 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 14:19:42,147 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 14:19:47,018 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 14:19:47,135 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 14:19:48,062 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 14:19:48,141 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 14:19:48,215 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 14:21:34,138 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 14:21:39,062 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 14:21:39,129 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 14:21:40,004 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 14:21:40,094 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 14:21:40,175 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 14:22:30,072 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 14:22:34,994 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 14:22:35,104 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 14:22:35,849 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 14:22:35,934 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 14:22:36,024 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 14:22:36,124 [main] INFO logger_file - the macBook Air message was verifyied successfully
+2022-06-28 14:22:36,881 [main] INFO logger_file - The product comprison link was clicked successfulyy
+2022-06-28 14:22:36,955 [main] INFO logger_file - The product comprrison chart was verified successfully
+2022-06-28 14:22:37,660 [main] INFO logger_file - Scenario Product Comparison PASSED
+2022-06-28 15:03:17,468 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 15:03:23,664 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:03:23,812 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:03:24,682 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:03:24,872 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 15:03:25,066 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 15:03:25,177 [main] INFO logger_file - the macBook Air message was verifyied successfully
+2022-06-28 15:03:26,272 [main] INFO logger_file - The product comprison link was clicked successfulyy
+2022-06-28 15:03:26,395 [main] INFO logger_file - The product comprrison chart was verified successfully
+2022-06-28 15:03:27,172 [main] INFO logger_file - Scenario Product Comparison PASSED
+2022-06-28 15:06:56,117 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-28 15:07:01,533 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:07:01,619 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:07:02,224 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:07:05,537 [main] INFO logger_file - Macbook item was clicked successfully
+2022-06-28 15:07:05,919 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-28 15:07:06,225 [main] INFO logger_file - Success Message for macbook verified Successfully
+2022-06-28 15:07:06,430 [main] INFO logger_file - The  1 tem(s)-602.00 showed to the cart 
+2022-06-28 15:07:07,563 [main] INFO logger_file - the user clicked the cart option successfully
+2022-06-28 15:07:07,774 [main] INFO logger_file - The user saw the  red X button to remove the item from cart successfully
+2022-06-28 15:07:08,781 [main] INFO logger_file - the item after removing showed zero successfully
+2022-06-28 15:07:09,621 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart PASSED
+2022-06-28 15:07:09,672 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 15:07:13,749 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:07:13,840 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:07:14,522 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:07:14,603 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 15:07:14,682 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 15:07:15,599 [main] INFO logger_file - Scenario Adding an item to Wish list started
+2022-06-28 15:07:19,718 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:07:19,818 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:07:20,581 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:07:21,279 [main] INFO logger_file - Scenario Adding an item to Wish list UNDEFINED
+2022-06-28 15:16:07,631 [main] INFO logger_file - Scenario Adding an item to Wish list started
+2022-06-28 15:16:12,003 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:16:12,081 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:16:12,635 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:16:12,712 [main] INFO logger_file - The Sony VaIO wish List was clicked successfully
+2022-06-28 15:19:27,473 [main] INFO logger_file - Scenario Adding an item to Wish list started
+2022-06-28 15:19:31,652 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:19:31,720 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:19:32,307 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:19:32,369 [main] INFO logger_file - The Sony VaIO wish List was clicked successfully
+2022-06-28 15:20:11,916 [main] INFO logger_file - Scenario Adding an item to Wish list started
+2022-06-28 15:20:15,922 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:20:15,988 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:20:16,538 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:20:16,608 [main] INFO logger_file - The Sony VaIO wish List was clicked successfully
+2022-06-28 15:20:16,765 [main] INFO logger_file - The Message For  Sony VAIO to your wish list was verifed successfuuly
+2022-06-28 15:20:17,421 [main] INFO logger_file - Scenario Adding an item to Wish list PASSED
+2022-06-28 15:31:54,275 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-06-28 15:31:58,235 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:31:58,298 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:31:58,838 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:32:00,490 [main] INFO logger_file - Macbook item was clicked successfully
+2022-06-28 15:32:00,553 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-28 15:32:00,760 [main] INFO logger_file - Success Message for macbook verified Successfully
+2022-06-28 15:32:00,818 [main] INFO logger_file - The  1 tem(s)-602.00 showed to the cart 
+2022-06-28 15:32:01,187 [main] INFO logger_file - the user clicked the cart option successfully
+2022-06-28 15:32:01,249 [main] INFO logger_file - The user saw the  red X button to remove the item from cart successfully
+2022-06-28 15:32:01,686 [main] INFO logger_file - the item after removing showed zero successfully
+2022-06-28 15:32:02,280 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart PASSED
+2022-06-28 15:32:02,309 [main] INFO logger_file - Scenario Product Comparison started
+2022-06-28 15:32:05,738 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:32:05,796 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:32:06,306 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:32:06,365 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-06-28 15:32:06,408 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-06-28 15:32:06,719 [main] INFO logger_file - Scenario Adding an item to Wish list started
+2022-06-28 15:32:10,004 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:32:10,057 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:32:10,551 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:32:10,604 [main] INFO logger_file - The Sony VaIO wish List was clicked successfully
+2022-06-28 15:32:10,759 [main] INFO logger_file - The Message For  Sony VAIO to your wish list was verifed successfuuly
+2022-06-28 15:32:11,363 [main] INFO logger_file - Scenario Adding an item to Wish list PASSED
+2022-06-28 15:32:11,386 [main] INFO logger_file - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-28 15:32:14,767 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:32:14,819 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:32:15,364 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:32:15,961 [main] INFO logger_file - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-06-28 15:36:29,127 [main] INFO logger_file - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-28 15:36:32,927 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 15:36:32,987 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-06-28 15:36:33,512 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-06-28 15:36:35,070 [main] INFO logger_file - The MacBook PrO Item was clicked successfully
+2022-06-28 15:36:35,105 [main] INFO logger_file - The price tag 2,000.00 was verified on UI successfullly
+2022-06-28 15:36:39,843 [main] INFO logger_file - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-06-28 16:52:28,919 [main] INFO logger_file - Scenario User verify currency values change started
+2022-06-28 16:52:32,746 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 16:52:33,378 [main] INFO logger_file - Scenario User verify currency values change UNDEFINED
+2022-06-28 16:56:58,512 [main] INFO logger_file - Scenario User verify currency values change started
+2022-06-28 16:57:02,444 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 16:57:02,525 [main] INFO logger_file - The currency was clicked successfully
+2022-06-28 16:57:03,068 [main] INFO logger_file - Euro was choosed successfully
+2022-06-28 16:57:03,098 [main] INFO logger_file -  currency value was changrd to Euro successfully
+2022-06-28 16:57:03,734 [main] INFO logger_file - Scenario User verify currency values change PASSED
+2022-06-28 20:41:00,756 [main] INFO logger_file - Scenario User verify currency values change started
+2022-06-28 20:41:05,790 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 20:41:05,869 [main] INFO logger_file - The currency was clicked successfully
+2022-06-28 20:41:06,606 [main] INFO logger_file - Euro was choosed successfully
+2022-06-28 20:41:06,647 [main] INFO logger_file -  currency value was changrd to Euro successfully
+2022-06-28 20:41:07,370 [main] INFO logger_file - Scenario User verify currency values change PASSED
+2022-06-28 20:41:07,409 [main] INFO logger_file - Scenario User empty Shopping cart message displays started
+2022-06-28 20:41:10,754 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 20:41:11,412 [main] INFO logger_file - Scenario User empty Shopping cart message displays UNDEFINED
+2022-06-28 20:44:55,160 [main] INFO logger_file - Scenario User empty Shopping cart message displays started
+2022-06-28 20:44:59,355 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 20:44:59,725 [main] INFO logger_file - The shopping cart was clicked successfully
+2022-06-28 20:45:49,662 [main] INFO logger_file - Scenario User empty Shopping cart message displays started
+2022-06-28 20:45:53,988 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 20:45:54,384 [main] INFO logger_file - The shopping cart was clicked successfully
+2022-06-28 20:48:33,424 [main] INFO logger_file - Scenario User empty Shopping cart message displays started
+2022-06-28 20:48:37,952 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 20:48:38,499 [main] INFO logger_file - The shopping cart was clicked successfully
+2022-06-28 20:48:38,552 [main] INFO logger_file - The shopping cart message was verified successfully
+2022-06-28 20:48:39,252 [main] INFO logger_file - Scenario User empty Shopping cart message displays PASSED
+2022-06-28 22:47:08,313 [main] INFO logger_file - Scenario User empty Shopping cart message displays started
+2022-06-28 22:47:12,320 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 22:47:12,692 [main] INFO logger_file - The shopping cart was clicked successfully
+2022-06-28 22:47:12,732 [main] INFO logger_file - The shopping cart message was verified successfully
+2022-06-28 22:47:13,384 [main] INFO logger_file - Scenario User empty Shopping cart message displays PASSED
+2022-06-28 22:50:36,432 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-06-28 22:50:40,213 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 22:50:40,280 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-28 22:50:40,980 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-28 22:50:41,013 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-06-28 22:50:41,655 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-28 22:50:41,697 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 22:50:44,949 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 22:50:45,006 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-28 22:50:45,691 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-28 22:50:45,759 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-06-28 22:50:47,787 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-28 22:50:47,851 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-28 22:50:48,073 [main] INFO logger_file - The Success Message was seen successfully
+2022-06-28 22:50:52,839 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-28 22:50:52,872 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 22:50:56,121 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 22:50:56,208 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-28 22:50:57,059 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-28 22:50:57,108 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-06-28 22:51:00,160 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-06-28 22:51:00,279 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-06-28 22:51:00,363 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-06-28 22:51:00,582 [main] INFO logger_file - The success message for Canon EOS was verfided successfully
+2022-06-28 22:51:05,310 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-28 22:51:05,383 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 22:51:08,692 [main] INFO logger_file - Retail website was varified successfully
+2022-06-28 22:51:08,750 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-06-28 22:51:09,414 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-06-28 22:51:09,467 [main] INFO logger_file - The canon EOS clicked Sucessfully
+2022-06-28 22:51:11,141 [main] INFO logger_file - the Review link was clicked successfully
+2022-06-28 22:51:11,531 [main] INFO logger_file - The review form was submitted successfully
+2022-06-28 22:51:11,581 [main] INFO logger_file - The Continue button for Review was clicked successfully
+2022-06-28 22:51:11,739 [main] INFO logger_file - The message for Review was verifyied succcessfully
+2022-06-28 22:51:16,508 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-05 10:11:05,741 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 10:11:10,944 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:11:10,996 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-05 10:11:11,377 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-05 10:11:11,572 [main] INFO logger_file - the username and password was entered successfully
+2022-07-05 10:11:11,947 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-05 10:11:42,157 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 10:11:45,091 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:11:45,148 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-05 10:11:45,506 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-05 10:11:45,675 [main] INFO logger_file - the username and password was entered successfully
+2022-07-05 10:11:46,038 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-05 10:12:16,215 [main] INFO logger_file - Scenario Edit your account Information started
+2022-07-05 10:12:19,357 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:12:19,409 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-05 10:12:19,714 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-05 10:12:19,880 [main] INFO logger_file - the username and password was entered successfully
+2022-07-05 10:12:20,267 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-05 10:14:43,988 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 10:14:47,891 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:14:47,951 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-05 10:14:48,328 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-05 10:14:48,495 [main] INFO logger_file - the username and password was entered successfully
+2022-07-05 10:14:49,020 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-05 10:14:49,046 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-07-05 10:14:49,408 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-07-05 10:14:49,681 [main] INFO logger_file - the affiliate form was filled successfully
+2022-07-05 10:14:49,730 [main] INFO logger_file - About check boc was clicked successfuly
+2022-07-05 10:14:50,444 [main] INFO logger_file - the continue button was clicked successfully
+2022-07-05 10:14:50,480 [main] INFO logger_file - The success message was varified successfully
+2022-07-05 10:14:51,128 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-05 10:14:51,182 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 10:14:54,594 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:14:54,657 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-05 10:14:55,020 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-05 10:14:55,190 [main] INFO logger_file - the username and password was entered successfully
+2022-07-05 10:14:55,629 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-05 10:14:55,664 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-07-05 10:14:55,992 [main] INFO logger_file - The affiliate information link was clicked sucessfully
+2022-07-05 10:14:56,055 [main] INFO logger_file - The Bank Transfer radio button was clicked successfully
+2022-07-05 10:14:56,378 [main] INFO logger_file - The bank information was fillded successfuuly
+2022-07-05 10:14:56,913 [main] INFO logger_file - the continue button was clicked successfully
+2022-07-05 10:14:56,939 [main] INFO logger_file - The success message was varified successfully
+2022-07-05 10:14:57,554 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-05 10:14:57,583 [main] INFO logger_file - Scenario Edit your account Information started
+2022-07-05 10:15:00,640 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:15:00,696 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-05 10:15:01,033 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-05 10:15:01,208 [main] INFO logger_file - the username and password was entered successfully
+2022-07-05 10:15:01,716 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-05 10:15:01,753 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-07-05 10:15:02,747 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-07-05 10:15:02,998 [main] INFO logger_file - The information was filling out SuccessFully
+2022-07-05 10:15:03,512 [main] INFO logger_file - The contine button for edit Account information was clicked sucessfully
+2022-07-05 10:15:03,547 [main] INFO logger_file - Success Message for EdIT aCCOUNT WAS verifed sucessfully
+2022-07-05 10:15:04,159 [main] INFO logger_file - Scenario Edit your account Information PASSED
+2022-07-05 10:17:25,253 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-07-05 10:17:29,086 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:17:29,175 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-05 10:17:29,899 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-05 10:17:29,933 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-07-05 10:17:30,548 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-05 10:17:30,572 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-05 10:17:33,730 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:17:33,779 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-05 10:17:34,490 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-05 10:17:34,537 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-07-05 10:17:37,069 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-07-05 10:17:37,159 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-07-05 10:17:37,318 [main] INFO logger_file - The Success Message was seen successfully
+2022-07-05 10:17:42,043 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-05 10:17:42,058 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-05 10:17:45,116 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:17:45,168 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-05 10:17:45,815 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-05 10:17:45,861 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-07-05 10:17:47,535 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-07-05 10:17:47,648 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-07-05 10:17:47,694 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-07-05 10:17:47,857 [main] INFO logger_file - The success message for Canon EOS was verfided successfully
+2022-07-05 10:17:52,643 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-05 10:17:52,697 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-05 10:17:55,869 [main] INFO logger_file - Retail website was varified successfully
+2022-07-05 10:17:55,915 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-05 10:17:56,602 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-05 10:17:56,659 [main] INFO logger_file - The canon EOS clicked Sucessfully
+2022-07-05 10:17:58,204 [main] INFO logger_file - the Review link was clicked successfully
+2022-07-05 10:17:58,499 [main] INFO logger_file - The review form was submitted successfully
+2022-07-05 10:17:58,537 [main] INFO logger_file - The Continue button for Review was clicked successfully
+2022-07-05 10:17:58,702 [main] INFO logger_file - The message for Review was verifyied succcessfully
+2022-07-05 10:18:03,409 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-12 09:43:12,956 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart started
+2022-07-12 09:43:18,055 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:43:18,107 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-07-12 09:43:18,688 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-07-12 09:43:21,378 [main] INFO logger_file - Macbook item was clicked successfully
+2022-07-12 09:43:21,429 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-07-12 09:43:21,635 [main] INFO logger_file - Success Message for macbook verified Successfully
+2022-07-12 09:43:21,721 [main] INFO logger_file - The  1 tem(s)-602.00 showed to the cart 
+2022-07-12 09:43:22,162 [main] INFO logger_file - the user clicked the cart option successfully
+2022-07-12 09:43:22,236 [main] INFO logger_file - The user saw the  red X button to remove the item from cart successfully
+2022-07-12 09:43:22,699 [main] INFO logger_file - the item after removing showed zero successfully
+2022-07-12 09:43:23,332 [main] INFO logger_file - Scenario Add and Remove a Mac book from Cart PASSED
+2022-07-12 09:43:23,370 [main] INFO logger_file - Scenario Product Comparison started
+2022-07-12 09:43:26,506 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:43:26,559 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-07-12 09:43:27,141 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-07-12 09:43:27,197 [main] INFO logger_file - The comprision Icon on macBook was clicked successfully
+2022-07-12 09:43:27,242 [main] INFO logger_file - the comprision Icon for macBookAir was cliked successfully
+2022-07-12 09:43:27,611 [main] INFO logger_file - Scenario Adding an item to Wish list started
+2022-07-12 09:43:30,657 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:43:30,704 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-07-12 09:43:31,204 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-07-12 09:43:31,253 [main] INFO logger_file - The Sony VaIO wish List was clicked successfully
+2022-07-12 09:43:31,405 [main] INFO logger_file - The Message For  Sony VAIO to your wish list was verifed successfuuly
+2022-07-12 09:43:32,008 [main] INFO logger_file - Scenario Adding an item to Wish list PASSED
+2022-07-12 09:43:32,019 [main] INFO logger_file - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-12 09:43:35,228 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:43:35,276 [main] INFO logger_file - The Laptop&NoteBook was clicked successfully
+2022-07-12 09:43:35,843 [main] INFO logger_file - Show all laptop&Notebook was clicked successfully
+2022-07-12 09:43:37,341 [main] INFO logger_file - The MacBook PrO Item was clicked successfully
+2022-07-12 09:43:37,369 [main] INFO logger_file - The price tag 2,000.00 was verified on UI successfullly
+2022-07-12 09:43:42,105 [main] INFO logger_file - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-12 09:45:23,611 [main] INFO logger_file - Scenario User verify currency values change started
+2022-07-12 09:45:27,503 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:45:27,555 [main] INFO logger_file - The currency was clicked successfully
+2022-07-12 09:45:28,039 [main] INFO logger_file - Euro was choosed successfully
+2022-07-12 09:45:28,074 [main] INFO logger_file -  currency value was changrd to Euro successfully
+2022-07-12 09:45:28,708 [main] INFO logger_file - Scenario User verify currency values change PASSED
+2022-07-12 09:45:28,740 [main] INFO logger_file - Scenario User empty Shopping cart message displays started
+2022-07-12 09:45:31,864 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:45:32,167 [main] INFO logger_file - The shopping cart was clicked successfully
+2022-07-12 09:45:32,202 [main] INFO logger_file - The shopping cart message was verified successfully
+2022-07-12 09:45:32,806 [main] INFO logger_file - Scenario User empty Shopping cart message displays PASSED
+2022-07-12 09:46:15,214 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab started
+2022-07-12 09:46:18,984 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:46:19,049 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-12 09:46:19,740 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-12 09:46:19,774 [main] INFO logger_file - User was able to see all items are present in Desktop page successfully
+2022-07-12 09:46:20,380 [main] INFO logger_file - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-12 09:46:20,405 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-12 09:46:23,649 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:46:23,693 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-12 09:46:24,363 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-12 09:46:24,421 [main] INFO logger_file - User was able to click on hp button sucessfully
+2022-07-12 09:46:26,389 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-07-12 09:46:26,434 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-07-12 09:46:26,641 [main] INFO logger_file - The Success Message was seen successfully
+2022-07-12 09:46:31,380 [main] INFO logger_file - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-12 09:46:31,408 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-12 09:46:34,673 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:46:34,723 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-12 09:46:35,401 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-12 09:46:35,462 [main] INFO logger_file - The Canon EOS was clicked successfully
+2022-07-12 09:46:37,234 [main] INFO logger_file - The red color from dropdown was clicked sucessfully
+2022-07-12 09:46:37,308 [main] INFO logger_file - User was able to select a quantity sucessfully
+2022-07-12 09:46:37,368 [main] INFO logger_file - User was able to click on cart button for second time sucessfully
+2022-07-12 09:46:37,542 [main] INFO logger_file - The success message for Canon EOS was verfided successfully
+2022-07-12 09:46:42,273 [main] INFO logger_file - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-12 09:46:42,320 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-12 09:46:45,425 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:46:45,481 [main] INFO logger_file - the Desktob Tab was clicked successfully
+2022-07-12 09:46:46,189 [main] INFO logger_file - The Show All Desktops was clicked successfully
+2022-07-12 09:46:46,237 [main] INFO logger_file - The canon EOS clicked Sucessfully
+2022-07-12 09:46:47,963 [main] INFO logger_file - the Review link was clicked successfully
+2022-07-12 09:46:48,236 [main] INFO logger_file - The review form was submitted successfully
+2022-07-12 09:46:48,283 [main] INFO logger_file - The Continue button for Review was clicked successfully
+2022-07-12 09:46:48,492 [main] INFO logger_file - The message for Review was verifyied succcessfully
+2022-07-12 09:46:53,267 [main] INFO logger_file - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-12 09:50:48,544 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-12 09:50:52,360 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:50:52,414 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-12 09:50:52,759 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-12 09:50:52,942 [main] INFO logger_file - the username and password was entered successfully
+2022-07-12 09:50:53,318 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-12 09:51:23,510 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-12 09:51:26,570 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:51:26,623 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-12 09:51:26,970 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-12 09:51:27,127 [main] INFO logger_file - the username and password was entered successfully
+2022-07-12 09:51:27,517 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-12 09:51:47,479 [main] INFO logger_file - Scenario Edit your account Information started
+2022-07-12 09:51:50,713 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:51:50,768 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-12 09:51:51,100 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-12 09:51:51,261 [main] INFO logger_file - the username and password was entered successfully
+2022-07-12 09:51:51,616 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-12 09:53:07,695 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-12 09:53:11,456 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:53:11,505 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-12 09:53:11,845 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-12 09:53:12,017 [main] INFO logger_file - the username and password was entered successfully
+2022-07-12 09:53:12,538 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-12 09:53:12,566 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-07-12 09:53:12,914 [main] INFO logger_file - the affiliate Registerion  was clicked successfully
+2022-07-12 09:53:13,168 [main] INFO logger_file - the affiliate form was filled successfully
+2022-07-12 09:53:13,219 [main] INFO logger_file - About check boc was clicked successfuly
+2022-07-12 09:53:13,862 [main] INFO logger_file - the continue button was clicked successfully
+2022-07-12 09:53:13,885 [main] INFO logger_file - The success message was varified successfully
+2022-07-12 09:53:14,490 [main] INFO logger_file - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-12 09:53:14,522 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-12 09:53:17,737 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:53:17,793 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-12 09:53:18,146 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-12 09:53:18,311 [main] INFO logger_file - the username and password was entered successfully
+2022-07-12 09:53:18,813 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-12 09:53:18,842 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-07-12 09:53:19,198 [main] INFO logger_file - The affiliate information link was clicked sucessfully
+2022-07-12 09:53:19,265 [main] INFO logger_file - The Bank Transfer radio button was clicked successfully
+2022-07-12 09:53:19,570 [main] INFO logger_file - The bank information was fillded successfuuly
+2022-07-12 09:53:20,127 [main] INFO logger_file - the continue button was clicked successfully
+2022-07-12 09:53:20,150 [main] INFO logger_file - The success message was varified successfully
+2022-07-12 09:53:20,749 [main] INFO logger_file - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-12 09:53:20,763 [main] INFO logger_file - Scenario Edit your account Information started
+2022-07-12 09:53:24,081 [main] INFO logger_file - Retail website was varified successfully
+2022-07-12 09:53:24,166 [main] INFO logger_file - My Account button was clicked successfully
+2022-07-12 09:53:24,499 [main] INFO logger_file - the Login link was clicked successfully
+2022-07-12 09:53:24,666 [main] INFO logger_file - the username and password was entered successfully
+2022-07-12 09:53:25,161 [main] INFO logger_file - the Login button was clicked successfully
+2022-07-12 09:53:25,195 [main] INFO logger_file - The dashbord for My Account was varified successfully
+2022-07-12 09:53:26,298 [main] INFO logger_file - The Account information link was clicked Successfuuly
+2022-07-12 09:53:26,538 [main] INFO logger_file - The information was filling out SuccessFully
+2022-07-12 09:53:27,070 [main] INFO logger_file - The contine button for edit Account information was clicked sucessfully
+2022-07-12 09:53:27,107 [main] INFO logger_file - Success Message for EdIT aCCOUNT WAS verifed sucessfully
+2022-07-12 09:53:27,712 [main] INFO logger_file - Scenario Edit your account Information PASSED

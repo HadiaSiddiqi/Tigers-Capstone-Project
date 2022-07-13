@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.631 s <<< FAILURE! - in runner.TestRunner
+initializationError(runner.TestRunner)  Time elapsed: 0.005 s  <<< ERROR!
+io.cucumber.core.gherkin.FeatureParserException: 
+Failed to parse resource at: classpath:features/Laptop%20&%20NoteBooks.feature
+(2:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'Scenario: Add and Remove a Mac book from Cart'
+(3:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'Given User is on Retail website'
+(4:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'When User click on Laptop &NoteBook tab'
+(5:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'And User click on Show all Laptop &NoteBook option'
+(6:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'And User click on MacBook item'
+(7:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'And User click add to Cart button'
+(8:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'Then User should see a message ‘Success: You have added MacBook to your shopping cart!’'
+(9:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'And User should see 1 tem(s)-602.00 showed to the cart'
+(10:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'And User click on cart option'
+(11:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'And user click on red X button to remove the item from cart'
+(12:1): expected: #TagLine, #FeatureLine, #Comment, #Empty, got 'Then item should be removed and cart should show 0 item(s)'
+
